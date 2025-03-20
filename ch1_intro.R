@@ -1,3 +1,4 @@
+library(tidyverse)
 wage <- ISLR2::Wage
 auto <- ISLR2::Auto
 smarket <- ISLR2::Smarket
